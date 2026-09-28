@@ -1,0 +1,34 @@
+{
+    "models": {
+        "rain_hira_model": {
+            "model": "rain_hira_model"
+        },
+        "rain_lora_model": {
+            "model": "rain_lora_model"
+        },
+        "default_rain": {
+            "model": "rain_hira_model"
+        },
+        "heat_howa_model": {
+            "model": "heat_howa_model"
+        },
+        "heat_cowa_model": {
+            "model": "heat_cowa_model"
+        },
+        "default_heat": {
+            "model": "heat_howa_model"
+        },
+        "heat_sinhowa_model": {
+            "model": "heat_sinhowa_model"
+        },
+        "rain_sinhira_model": {
+            "model": "rain_sinhira_model"
+        },
+        "heat_sinhowa30_model": {
+            "model": "heat_sinhowa30_model"
+        },
+        "heat_sincowa_model": {
+            "model": "heat_sincowa_model"
+        }
+    }
+}
